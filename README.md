@@ -1,3 +1,3 @@
-# bt5_class_6_tinyone
+# bt5_tinyone
 
 https://tasnimul-anwar.github.io/bt5_tinyone/
